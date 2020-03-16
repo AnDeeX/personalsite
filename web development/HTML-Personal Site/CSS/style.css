@@ -1,0 +1,22 @@
+    body {
+      background-color: #f1fcfc;
+      max-width: 700px;
+      margin: auto;
+    }
+
+    hr {
+      border-style: dotted none none;
+      border-color: grey;
+      border-width: 6px;
+      width: 5%;
+    }
+
+    img {
+      height: 250px;
+    }
+    h1 {
+      color: #9399ff;
+    }
+    h3 {
+      color: #9399ff;
+    }

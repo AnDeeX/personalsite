@@ -1,0 +1,26 @@
+body {
+  background-color: #ffeadb;
+}
+h1 {
+  font-size: 150px;
+  margin: 20px 10px 5px;
+}
+p{
+  font-size: 20px;
+  margin-top: 35px;
+}
+hr {
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: #ec7373;
+  width: 100px;
+}
+img {
+  height: 200px;
+}
+img:hover {
+  background-color: gold;
+}
+img:active {
+  background-color: red;
+}
